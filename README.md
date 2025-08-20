@@ -26,6 +26,3 @@ A empresa quer antecipar o problema da evasão, e cabe a você construir um pipe
 ---
 ## 💻LINK da Análise: https://colab.research.google.com/drive/1dHR-VqkPcxAfCsOR1kQa1K01j9L7-TXj?authuser=0#scrollTo=GBWRT5Uh9CnT
 
-## 🚀 Cargo
-Você agora é: **Analista de Machine Learning Júnior**  
-A Telecom X está confiando na sua entrega para dar os próximos passos em direção a uma solução de inteligência preditiva eficaz. Boa sorte!
